@@ -16,7 +16,7 @@ Uninstall: `claude plugin uninstall manifest`.
 ## Claude Code (manual)
 
 ```bash
-git clone https://github.com/undeemed/manifest
+git clone https://github.com/i098/manifest
 cd manifest && ./install.sh
 ```
 

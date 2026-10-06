@@ -56,7 +56,7 @@ That is the thesis in one artifact: the refusal was never about capability.
 claude plugin marketplace add undeemed/manifest && claude plugin install manifest@manifest
 
 # any agent, manual
-git clone https://github.com/undeemed/manifest && cd manifest && ./install.sh
+git clone https://github.com/i098/manifest && cd manifest && ./install.sh
 ```
 
 On: `/manifest` or say "manifest mode". Off: "stop manifest".
